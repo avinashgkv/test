@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//changes for jerry Repo
 --size_t my_strlen(char *s)
 //Added code here for String length function
 +size_t  my_strlen(char *s)
