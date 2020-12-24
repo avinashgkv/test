@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 --size_t my_strlen(char *s)
+//Added code here for String length function
 +size_t  my_strlen(char *s)
 {
    char *p = s;
