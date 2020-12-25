@@ -3,6 +3,8 @@
 //changes for jerry Repo
 --size_t my_strlen(char *s)
 //Added code here for String length function
+//hange in 
+//hange in erry file For the purpose of Resolve conflct
 +size_t w_strlen(const wchar_t *s)
 +
 {
