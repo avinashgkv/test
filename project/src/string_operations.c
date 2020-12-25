@@ -1,4 +1,5 @@
 #include <stdio.h>
+//changes in Jerry Repo for Patch
 //changes for jerry Repo
 --size_t my_strlen(char *s)
 //Added code here for String length function
