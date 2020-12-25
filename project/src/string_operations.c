@@ -7,7 +7,7 @@
 //Added code here for String length function
 //hange in 
 //hange in erry file For the purpose of Resolve conflct
-+size_t w_strlenTom(const wchar_t *s)
++size_t w_strlenTom111111111111111111111(const wchar_t *s)
 +
 {
    +
